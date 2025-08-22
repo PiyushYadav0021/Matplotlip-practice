@@ -9,7 +9,7 @@
 
 ---
 
-## ✅ What’s Covered
+##  What’s Covered
 
 ### 🧱 Core Visualizations
 - Line Plot, Scatter Plot, Bar Chart
